@@ -1,0 +1,4 @@
+insert into `certificates` (`id`, `image_name`, `image_public_id`, `trainer_id`) values ('3', 'https://res.cloudinary.com/dtwgcoyn5/image/upload/v1712557424/Certificates/fes7zof1o3zr1mol6kxt.png', NULL, '701518afe2d24d9f967cef7684511a27');
+insert into `certificates` (`id`, `image_name`, `image_public_id`, `trainer_id`) values ('4', 'https://res.cloudinary.com/dtwgcoyn5/image/upload/v1712558326/Certificates/zqu5rw4hswyl1bh8p33x.png', NULL, '53fe28a5ceae4e319ce6446b032c244e');
+insert into `certificates` (`id`, `image_name`, `image_public_id`, `trainer_id`) values ('5', 'https://res.cloudinary.com/dtwgcoyn5/image/upload/v1712558932/Certificates/iddesftwqp3530hod1ei.png', NULL, '52ca7be521c3463b950704f4663dfcc4');
+insert into `certificates` (`id`, `image_name`, `image_public_id`, `trainer_id`) values ('6', 'https://res.cloudinary.com/dtwgcoyn5/image/upload/v1712569148/Certificates/fs7d0ttonjpqe9y7ycld.png', NULL, 'aa643fab8c7b4566a82d93b6cbfd59ff');
